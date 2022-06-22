@@ -45,3 +45,5 @@ for i in range (1,grosor):
     
     if grosorAuxiliar2 < 0:
         break;
+
+#aun falta mejorar pipipipi
